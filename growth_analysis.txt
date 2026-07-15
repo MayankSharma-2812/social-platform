@@ -1,0 +1,143 @@
+================================================================================
+                      REDDIT POST GROWTH PATTERN REPORT
+================================================================================
+Subreddit Tracked: r/python
+Analysis Time:     2026-07-15 15:14:11
+Total Posts:       10
+--------------------------------------------------------------------------------
+
+### SUMMARY OF KEY FINDINGS
+- **Fastest Absolute Growth**: 'HTMX is the future of modern web development' (+172 upvotes)
+- **Highest % Growth Rate**:  'Why we rewrote our database engine in Rust' (+2900.0% growth)
+- **Most Consistent Growth**:  'My experience hosting 100k users on a $5 VPS' (Consistency: 0.6667)
+
+### GROWTH PATTERNS OBSERVED
+- Late Accelerator: 2 post(s)
+- Early Peaker: 2 post(s)
+- Steady Grower: 2 post(s)
+- Fluctuating Grower: 3 post(s)
+- Flatliner: 1 post(s)
+
+================================================================================
+### DETAILED POST METRICS (Ranked by Absolute Growth)
+================================================================================
+1. Title: HTMX is the future of modern web development
+   ID: htmx505 | Subreddit: r/python | URL: https://reddit.com/r/python/htmx505
+   Trajectory: [8, 12, 16, 22, 55, 115, 180]
+   Metrics:
+     - Initial Score:   8
+     - Final Score:     180
+     - Absolute Growth: 172
+     - Growth Rate (%): 2150.0%
+     - Acceleration:    144 (first half: 14 -> second half: 158)
+     - Consistency:     0.0371
+     - Classified As:   [Late Accelerator]
+--------------------------------------------------------------------------------
+2. Title: Why we rewrote our database engine in Rust
+   ID: rust202 | Subreddit: r/python | URL: https://reddit.com/r/python/rust202
+   Trajectory: [5, 8, 12, 18, 48, 98, 150]
+   Metrics:
+     - Initial Score:   5
+     - Final Score:     150
+     - Absolute Growth: 145
+     - Growth Rate (%): 2900.0%
+     - Acceleration:    119 (first half: 13 -> second half: 132)
+     - Consistency:     0.0453
+     - Classified As:   [Late Accelerator]
+--------------------------------------------------------------------------------
+3. Title: Show HN: A SQLite-based vector search engine in 100 lines of Python
+   ID: sq404 | Subreddit: r/python | URL: https://reddit.com/r/python/sq404
+   Trajectory: [25, 110, 145, 155, 160, 162, 165]
+   Metrics:
+     - Initial Score:   25
+     - Final Score:     165
+     - Absolute Growth: 140
+     - Growth Rate (%): 560.0%
+     - Acceleration:    -120 (first half: 130 -> second half: 10)
+     - Consistency:     0.0325
+     - Classified As:   [Early Peaker]
+--------------------------------------------------------------------------------
+4. Title: The death of the junior developer has been greatly exaggerated
+   ID: dev303 | Subreddit: r/python | URL: https://reddit.com/r/python/dev303
+   Trajectory: [15, 38, 62, 85, 107, 128, 150]
+   Metrics:
+     - Initial Score:   15
+     - Final Score:     150
+     - Absolute Growth: 135
+     - Growth Rate (%): 900.0%
+     - Acceleration:    -5 (first half: 70 -> second half: 65)
+     - Consistency:     0.5109
+     - Classified As:   [Steady Grower]
+--------------------------------------------------------------------------------
+5. Title: Python 3.13 Released with Free-Threading (No GIL)
+   ID: py101 | Subreddit: r/python | URL: https://reddit.com/r/python/py101
+   Trajectory: [10, 85, 120, 135, 138, 139, 140]
+   Metrics:
+     - Initial Score:   10
+     - Final Score:     140
+     - Absolute Growth: 130
+     - Growth Rate (%): 1300.0%
+     - Acceleration:    -120 (first half: 125 -> second half: 5)
+     - Consistency:     0.0361
+     - Classified As:   [Early Peaker]
+--------------------------------------------------------------------------------
+6. Title: A visual guide to database isolation levels
+   ID: db808 | Subreddit: r/python | URL: https://reddit.com/r/python/db808
+   Trajectory: [45, 64, 77, 99, 117, 135, 153]
+   Metrics:
+     - Initial Score:   45
+     - Final Score:     153
+     - Absolute Growth: 108
+     - Growth Rate (%): 240.0%
+     - Acceleration:    0 (first half: 54 -> second half: 54)
+     - Consistency:     0.2743
+     - Classified As:   [Fluctuating Grower]
+--------------------------------------------------------------------------------
+7. Title: Why I still prefer vanilla CSS variables over Tailwind CSS
+   ID: tw1010 | Subreddit: r/python | URL: https://reddit.com/r/python/tw1010
+   Trajectory: [55, 70, 95, 115, 115, 145, 157]
+   Metrics:
+     - Initial Score:   55
+     - Final Score:     157
+     - Absolute Growth: 102
+     - Growth Rate (%): 185.45%
+     - Acceleration:    -18 (first half: 60 -> second half: 42)
+     - Consistency:     0.0938
+     - Classified As:   [Fluctuating Grower]
+--------------------------------------------------------------------------------
+8. Title: Django 5.1 released with enhanced async support
+   ID: dj909 | Subreddit: r/python | URL: https://reddit.com/r/python/dj909
+   Trajectory: [50, 64, 90, 107, 126, 145, 134]
+   Metrics:
+     - Initial Score:   50
+     - Final Score:     134
+     - Absolute Growth: 84
+     - Growth Rate (%): 168.0%
+     - Acceleration:    -30 (first half: 57 -> second half: 27)
+     - Consistency:     0.0784
+     - Classified As:   [Fluctuating Grower]
+--------------------------------------------------------------------------------
+9. Title: My experience hosting 100k users on a $5 VPS
+   ID: vps707 | Subreddit: r/python | URL: https://reddit.com/r/python/vps707
+   Trajectory: [20, 32, 45, 58, 70, 82, 95]
+   Metrics:
+     - Initial Score:   20
+     - Final Score:     95
+     - Absolute Growth: 75
+     - Growth Rate (%): 375.0%
+     - Acceleration:    -1 (first half: 38 -> second half: 37)
+     - Consistency:     0.6667
+     - Classified As:   [Steady Grower]
+--------------------------------------------------------------------------------
+10. Title: How I built a SaaS in 24 hours with AI agents
+   ID: saas606 | Subreddit: r/python | URL: https://reddit.com/r/python/saas606
+   Trajectory: [30, 30, 30, 30, 30, 30, 30]
+   Metrics:
+     - Initial Score:   30
+     - Final Score:     30
+     - Absolute Growth: 0
+     - Growth Rate (%): 0.0%
+     - Acceleration:    0 (first half: 0 -> second half: 0)
+     - Consistency:     1.0
+     - Classified As:   [Flatliner]
+--------------------------------------------------------------------------------

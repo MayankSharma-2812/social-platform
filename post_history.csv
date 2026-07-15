@@ -1,0 +1,71 @@
+timestamp,post_id,title,url,score,num_comments,upvote_ratio,subreddit
+2026-07-15 12:13:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,10,4,0.9,python
+2026-07-15 12:13:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,5,3,0.91,python
+2026-07-15 12:13:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,15,5,0.91,python
+2026-07-15 12:13:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,25,5,0.89,python
+2026-07-15 12:13:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,8,6,0.91,python
+2026-07-15 12:13:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,7,0.92,python
+2026-07-15 12:13:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,20,4,0.92,python
+2026-07-15 12:13:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,45,7,0.89,python
+2026-07-15 12:13:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,50,10,0.89,python
+2026-07-15 12:13:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,55,11,0.92,python
+2026-07-15 12:43:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,85,13,0.9,python
+2026-07-15 12:43:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,8,6,0.92,python
+2026-07-15 12:43:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,38,9,0.92,python
+2026-07-15 12:43:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,110,20,0.92,python
+2026-07-15 12:43:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,12,6,0.89,python
+2026-07-15 12:43:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,5,0.93,python
+2026-07-15 12:43:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,32,6,0.91,python
+2026-07-15 12:43:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,64,14,0.9,python
+2026-07-15 12:43:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,64,11,0.9,python
+2026-07-15 12:43:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,70,14,0.9,python
+2026-07-15 13:13:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,120,19,0.94,python
+2026-07-15 13:13:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,12,6,0.92,python
+2026-07-15 13:13:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,62,14,0.9,python
+2026-07-15 13:13:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,145,23,0.94,python
+2026-07-15 13:13:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,16,5,0.91,python
+2026-07-15 13:13:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,7,0.9,python
+2026-07-15 13:13:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,45,7,0.91,python
+2026-07-15 13:13:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,77,13,0.92,python
+2026-07-15 13:13:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,90,16,0.94,python
+2026-07-15 13:13:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,95,16,0.92,python
+2026-07-15 13:43:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,135,22,0.92,python
+2026-07-15 13:43:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,18,5,0.94,python
+2026-07-15 13:43:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,85,13,0.93,python
+2026-07-15 13:43:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,155,28,0.95,python
+2026-07-15 13:43:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,22,4,0.91,python
+2026-07-15 13:43:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,7,0.92,python
+2026-07-15 13:43:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,58,11,0.91,python
+2026-07-15 13:43:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,99,19,0.95,python
+2026-07-15 13:43:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,107,20,0.93,python
+2026-07-15 13:43:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,115,19,0.94,python
+2026-07-15 14:13:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,138,25,0.92,python
+2026-07-15 14:13:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,48,9,0.96,python
+2026-07-15 14:13:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,107,18,0.94,python
+2026-07-15 14:13:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,160,29,0.94,python
+2026-07-15 14:13:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,55,13,0.92,python
+2026-07-15 14:13:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,9,0.93,python
+2026-07-15 14:13:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,70,15,0.93,python
+2026-07-15 14:13:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,117,20,0.96,python
+2026-07-15 14:13:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,126,23,0.95,python
+2026-07-15 14:13:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,115,18,0.93,python
+2026-07-15 14:43:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,139,21,0.95,python
+2026-07-15 14:43:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,98,15,0.95,python
+2026-07-15 14:43:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,128,21,0.94,python
+2026-07-15 14:43:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,162,28,0.95,python
+2026-07-15 14:43:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,115,22,0.95,python
+2026-07-15 14:43:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,9,0.95,python
+2026-07-15 14:43:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,82,17,0.97,python
+2026-07-15 14:43:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,135,22,0.94,python
+2026-07-15 14:43:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,145,22,0.95,python
+2026-07-15 14:43:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,145,26,0.95,python
+2026-07-15 15:13:59,py101,Python 3.13 Released with Free-Threading (No GIL),https://reddit.com/r/python/py101,140,24,0.95,python
+2026-07-15 15:13:59,rust202,Why we rewrote our database engine in Rust,https://reddit.com/r/python/rust202,150,26,0.97,python
+2026-07-15 15:13:59,dev303,The death of the junior developer has been greatly exaggerated,https://reddit.com/r/python/dev303,150,27,0.95,python
+2026-07-15 15:13:59,sq404,Show HN: A SQLite-based vector search engine in 100 lines of Python,https://reddit.com/r/python/sq404,165,29,0.95,python
+2026-07-15 15:13:59,htmx505,HTMX is the future of modern web development,https://reddit.com/r/python/htmx505,180,30,0.94,python
+2026-07-15 15:13:59,saas606,How I built a SaaS in 24 hours with AI agents,https://reddit.com/r/python/saas606,30,8,0.95,python
+2026-07-15 15:13:59,vps707,My experience hosting 100k users on a $5 VPS,https://reddit.com/r/python/vps707,95,15,0.94,python
+2026-07-15 15:13:59,db808,A visual guide to database isolation levels,https://reddit.com/r/python/db808,153,27,0.96,python
+2026-07-15 15:13:59,dj909,Django 5.1 released with enhanced async support,https://reddit.com/r/python/dj909,134,22,0.95,python
+2026-07-15 15:13:59,tw1010,Why I still prefer vanilla CSS variables over Tailwind CSS,https://reddit.com/r/python/tw1010,157,25,0.96,python
